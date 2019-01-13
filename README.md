@@ -6,6 +6,8 @@ Movie information search engine.
 
 - html
 - css
+- js
+- jQuery
 - bootstrap
 - axios
 - OMDB API
